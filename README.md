@@ -1,5 +1,3 @@
-## DEPRECATED! Use the [newer version from here](https://github.com/finn-freitag/EasePassBrowserPasswordImporterV2).
-
 # EasePassBrowserPasswordImporter
  This plugin for <a href="https://github.com/FrozenAssassine/EasePass">Ease Pass</a> helps you to import passwords from browsers.
 # Supported browsers
